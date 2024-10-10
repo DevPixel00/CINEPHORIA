@@ -1,0 +1,31 @@
+{
+  "name": "cinephoria",
+  "version": "1.0.0",
+  "description": "Application de réservation de films",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevPixel00/CINEPHORIA.git"
+  },
+  "keywords": [
+    "cinema",
+    "films",
+    "reservation",
+    "cinephoria"
+  ],
+  "author": "Manon Cabret",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevPixel00/CINEPHORIA/issues"
+  },
+  "homepage": "https://github.com/DevPixel00/CINEPHORIA#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
